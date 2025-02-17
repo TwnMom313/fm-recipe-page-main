@@ -173,7 +173,7 @@ h3{
   }
   .wrapper{
     width: 50%;
-    background-color: white;
+    background-color: var(--white);
     border-radius: 10px;
     margin: auto;
     padding: 5%;
