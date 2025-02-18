@@ -73,7 +73,7 @@ I am still warming up to coding and using CSS. So i will continue to get my feet
 
 ### Useful resources
 
-- [Resource 1]Styling an hr: https://www.w3schools.com/howto/howto_css_style_hr.asp - This helped us with CSS.
+- [Styling an hr](https://www.w3schools.com/howto/howto_css_style_hr.asp)
 
 ## Author
 
